@@ -7,7 +7,7 @@ if (argv.numero) {
         console.log(` ${argv.numero} x ${i}  =  ${i*argv.numero}`);
     }
    
-} else {
+} else { 
     console.log('Informe um parametro');
 }
 
